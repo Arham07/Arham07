@@ -31,7 +31,7 @@
 
 ### A Student, Developer & Gamer
 
-<img align="right" alt="GIF" src="code.gif" width="450" height="280" />
+<img align="right" alt="GIF" src="code.gif" width="500" height="320" />
 
 #### Talking about my personal stuff:
 
