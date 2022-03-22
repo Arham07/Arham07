@@ -67,7 +67,7 @@
 <summary>📝 My GitHub Stats</summary>
 <br>
 
-[![Arham's github stats](https://github-readme-stats.vercel.app/api?username=Arham07&theme=gotham)](https://github.com/Arham07/github-readme-stats)
+[![Arham's github stats](https://github-readme-stats.vercel.app/api?username=Arham07&theme=Arham07)](https://github.com/Arham07/github-readme-stats)
 
 <a href="https://github.com/Arham07/github-readme-stats"><img alt="Arham07's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arham07&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
