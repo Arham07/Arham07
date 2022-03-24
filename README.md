@@ -70,7 +70,6 @@
 [![Arham's github stats](https://github-readme-stats.vercel.app/api?username=Arham07&theme=gotham)](https://github.com/Arham07/github-readme-stats)
 
 <br/>
-<br/>
 Open Source Contributor from <b>Pakistan<b> 💚 
 
 ## ❤ Views and Followers
