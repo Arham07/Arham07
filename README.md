@@ -71,11 +71,6 @@
 
 <br/>
 <br/>
-
-<a href="https://github.com/Arham/github-readme-activity-graph"><img alt="Arham Javed's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Arham07&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
 Open Source Contributor from <b>Pakistan<b> 💚 
 
 ## ❤ Views and Followers
