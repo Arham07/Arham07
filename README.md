@@ -77,7 +77,7 @@ Open Source Contributor from <b>Pakistan<b> 💚
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Arham07">
 </a>
-<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/Arham07?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Arham07?tab=followers"><img src="https://img.shields.io/github/followers/Arham07?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
 [dsccui]: https://www.neduet.edu.pk/
