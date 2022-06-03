@@ -18,9 +18,9 @@
 </div>
 
 <br>
-
+<!-- 
 <div align="center">
-<p align="center">Nominate me as GitHub Star ⭐</p>
+<p align="center">Nominate me as GitHub Star ⭐</p> -->
 
 <a href="https://stars.github.com/nominate/">
     <img src="https://img.shields.io/badge/GitHub-100000?&style=for-the-badge&logo=GitHub&logoColor=white&color=fa3667" />
