@@ -1,6 +1,17 @@
 ### Hey there, I'm  Arham <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
 
 <div align="center">
+
+<!-- Tagline -->
+<h4 align="center">Software Engineer @ KoderLabs from Karachi, Pakistan</h3>
+
+<!-- Badges -->
+<div align="center">
+      <img src="https://komarev.com/ghpvc/?username=ShahrozAhmd&label=Profile%20views&color=0e75b6&style=flat" alt="ShahrozAhmd" />
+      <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/ShahrozAhmd?style=social"> 
+      <img alt="GitHub followers" src="https://img.shields.io/github/followers/ShahrozAhmd?style=social">
+</div>
+
 <p align="center">Let's connect!</p>
 
 <a href="https://www.instagram.com/_arham.javed/">
@@ -18,16 +29,6 @@
 </div>
 
 <br>
-
-<div align="center">
-<p align="center">Nominate me as GitHub Star ⭐</p>
-
-<a href="https://stars.github.com/nominate/">
-    <img src="https://img.shields.io/badge/GitHub-100000?&style=for-the-badge&logo=GitHub&logoColor=white&color=fa3667" />
-</a>
-
-</div>
-
 
 ### A Student, Developer & Gamer
 
