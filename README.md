@@ -3,11 +3,9 @@
 <div align="center">
 
 <!-- Tagline -->
-<h4 align="center">Flutter Intern @ Oraan from Karachi, Pakistan</h3>
-      
-<br>      
+<h4 align="center">Flutter Intern @ Oraan from Karachi, Pakistan</h3>     
 
-<p align="center">Let's connect!<img src="https://media.giphy.com/media/jOz35yxbuhvVQDKrce/giphy.gif" height="15px" width="15px"></p>
+<p align="center">Let's connect! <img src="https://media.giphy.com/media/jOz35yxbuhvVQDKrce/giphy.gif" height="15px" width="15px"></p>
 
 <a href="https://www.instagram.com/_arham.javed/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -27,7 +25,7 @@
 
 ### A Student, Developer & Gamer
 
-<img align="right" alt="GIF" src="code.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="code.gif" width="500" height="420" />
 
 #### Talking about my personal stuff:
 
@@ -35,6 +33,17 @@
 - 💻 The tech I'm interested Flutter/AWS etc.
 - ✨ I'm learning Flutter, Cyber Security etc.
 - 🎮 COD Modern Warfare 1 Multiplayer 
+
+<div align="center">
+<p align="center">🛠 Tools & Technology</p>
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+</div>
 
 <div align="center">
 <p align="center">Languages & Tools</p>
@@ -46,16 +55,8 @@
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-</div>
-<div align="center">
-<p align="center">🛠 Tools & Technology</p>
-
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-
+<br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahrozAhmd&theme=dark&layout=compact&langs_count=20&hide_title=true"/>      
 </div>
 
 <br>
@@ -82,7 +83,7 @@ Open Source Contributor from <b>Pakistan<b> 💚
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Arham07">
 </a>
-<a href="https://github.com/Arham07?tab=followers"><img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/ShahrozAhmd?style=social"> <img src="https://img.shields.io/github/followers/Arham07?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Arham07?tab=followers"> <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/Arham07?style=social"> <img src="https://img.shields.io/github/followers/Arham07?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
 [dsccui]: https://www.neduet.edu.pk/
