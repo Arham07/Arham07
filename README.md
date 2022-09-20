@@ -3,16 +3,11 @@
 <div align="center">
 
 <!-- Tagline -->
-<h4 align="center">Software Engineer @ KoderLabs from Karachi, Pakistan</h3>
+<h4 align="center">Flutter Intern @ Oraan from Karachi, Pakistan</h3>
+      
+<br>      
 
-<!-- Badges -->
-<div align="center">
-      <img src="https://komarev.com/ghpvc/?username=ShahrozAhmd&label=Profile%20views&color=0e75b6&style=flat" alt="ShahrozAhmd" />
-      <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/ShahrozAhmd?style=social"> 
-      <img alt="GitHub followers" src="https://img.shields.io/github/followers/ShahrozAhmd?style=social">
-</div>
-
-<p align="center">Let's connect!</p>
+<p align="center">Let's connect!<img src="https://media.giphy.com/media/jOz35yxbuhvVQDKrce/giphy.gif" height="15px" width="15px"></p>
 
 <a href="https://www.instagram.com/_arham.javed/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -65,10 +60,19 @@
 
 <br>
 
-<summary>📝 My GitHub Stats</summary>
+<summary>📝 My GitHub Stats ⚡</summary>
 <br>
 
-[![Arham's github stats](https://github-readme-stats.vercel.app/api?username=Arham07&theme=gotham)](https://github.com/Arham07/github-readme-stats)
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/Arham07/github-readme-streak-stats" title="Go to Source">
+      <img align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Arham07&theme=react&border=61dafb&hide_border=true" alt="Arham07" />
+    </a>
+    <a href="https://github.com/Arham07/github-readme-stats" title="Go to Source">
+      <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=Arham07&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+</p>
 
 <br/>
 Open Source Contributor from <b>Pakistan<b> 💚 
@@ -78,7 +82,7 @@ Open Source Contributor from <b>Pakistan<b> 💚
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Arham07">
 </a>
-<a href="https://github.com/Arham07?tab=followers"><img src="https://img.shields.io/github/followers/Arham07?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Arham07?tab=followers"><img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/ShahrozAhmd?style=social"> <img src="https://img.shields.io/github/followers/Arham07?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
 [dsccui]: https://www.neduet.edu.pk/
