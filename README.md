@@ -56,13 +56,10 @@
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <br>
-<br>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arham07&theme=dark&layout=compact&langs_count=20&hide_title=true"/>      
+<!--   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arham07&theme=dark&layout=compact&langs_count=20&hide_title=true"/>       -->
 </div>
 
 <br>
-<br>
-
 
 <summary>📝 My GitHub Stats ⚡</summary>
 <br>
