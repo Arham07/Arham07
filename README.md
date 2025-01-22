@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Tagline -->
-<h4 align="center">Flutter Developer @ Sybrid from Karachi, Pakistan</h3>     
+<h4 align="center">Flutter Developer @ Octdaily from Karachi, Pakistan</h3>     
 
 <p align="center">Let's connect! <img src="https://media.giphy.com/media/jOz35yxbuhvVQDKrce/giphy.gif" height="15px" width="15px"></p>
 
